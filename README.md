@@ -22,7 +22,7 @@ Développeuse passionnée par le **développement web/mobile** , **l'intelligenc
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Haroun_Dziri&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=HarounDziri&color=blue)
 
 
 <!---
