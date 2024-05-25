@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Haroun Dziri
 
 ### 🚀 À propos de moi
-Développeuse passionnée par le **développement web/mobile** , **l'intelligence artificielle** et "Machine Learning", basée à **Tunis, Tunisie**. Toujours à la recherche de nouveaux défis pour innover et créer des solutions impactantes.
+Développeur passionnée par le **développement web/mobile** , **l'intelligence artificielle** et "Machine Learning", basée à **Tunis, Tunisie**. Toujours à la recherche de nouveaux défis pour innover et créer des solutions impactantes.
 
 ### 🔧 Compétences Techniques
 - **Langages :** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
